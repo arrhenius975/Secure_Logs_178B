@@ -39,18 +39,20 @@ Here's an overview of the project structure:
 │   ├── design             
 │   ├── traceability       
 │   └── compliance         
-├── src                     # Source code
-│   ├── main.cpp            # Main entry point
-│   ├── modules             # Core modules (logging, communication, access control)
-│   └── utils               # Utility functions (e.g., encryption)
-├── include                 # Header files
-├── tests                   # Test suite (unit and integration tests)
-│   ├── unit                # Unit tests for individual modules
-│   └── integration         # Integration tests
-├── tools                   # Tools for static analysis, scripts, and test coverage
-├── configs                 # Configuration files
-├── .github/workflows       # GitHub Actions for CI/CD
-└── README.md               # Project README
+├── src 
+|   ├── main.cpp            
+│   ├── modules             
+│   └── utils               
+├── include                 
+├── tests                   
+│   ├── unit                
+│   └── integration         
+├── tools                   
+├── configs                 
+├── .github/workflows       
+└── README.md    
+
+ 
 ## Installation
 
 To install this project locally, follow these steps:
