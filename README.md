@@ -28,30 +28,7 @@ The DO-178B standard outlines guidelines for the development of software for air
 - Safety-critical design: Use of safe coding practices, defensive programming, and thorough testing.
 - Verification and validation: Unit and integration testing for all critical components.
 - Compliance documentation: Evidence collection for audits, reviews, and certification.
-
-## Project Structure
-
-Here's an overview of the project structure:
-
-.
-├── docs                   
-│   ├── requirements       
-│   ├── design             
-│   ├── traceability       
-│   └── compliance         
-├── src
-│   ├── modules             
-│   └── utils               
-├── include                 
-├── tests                   
-│   ├── unit                
-│   └── integration         
-├── tools                   
-├── configs                 
-├── .github/workflows       
-└── README.md    
-
- 
+    
 ## Installation
 
 To install this project locally, follow these steps:
