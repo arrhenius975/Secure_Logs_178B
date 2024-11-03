@@ -40,7 +40,6 @@ Here's an overview of the project structure:
 │   ├── traceability       
 │   └── compliance         
 ├── src
-|             
 │   ├── modules             
 │   └── utils               
 ├── include                 
