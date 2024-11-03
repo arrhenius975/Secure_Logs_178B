@@ -35,9 +35,10 @@ To install this project locally, follow these steps:
 1. Clone the repository:
   
    git clone https://github.com/arrhenius975/Secure_Logs_178B.git
+   
    cd Secure_Logs_178B
    
-2. Build the project:
+3. Build the project:
    - Ensure you have CMake and a compatible compiler (like GCC or Clang) installed.
    - Run the following commands:
     
@@ -46,7 +47,7 @@ To install this project locally, follow these steps:
      cmake ..
      make
      
-3. Run tests:
+4. Run tests:
   
    make test
    
