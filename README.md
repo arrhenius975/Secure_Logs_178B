@@ -40,7 +40,7 @@ Here's an overview of the project structure:
 │   ├── traceability       
 │   └── compliance         
 ├── src
-|   ├── main.cpp            
+|             
 │   ├── modules             
 │   └── utils               
 ├── include                 
