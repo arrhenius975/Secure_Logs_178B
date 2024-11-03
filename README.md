@@ -5,7 +5,6 @@ This project is a DO-178B standard compliant Secure logging system implemented i
 ## Table of Contents
 - [Introduction](#introduction)
 - [DO-178B Compliance](#do-178b-compliance)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies & Tools](#technologies--tools)
