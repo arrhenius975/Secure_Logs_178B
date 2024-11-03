@@ -39,7 +39,8 @@ Here's an overview of the project structure:
 │   ├── design             
 │   ├── traceability       
 │   └── compliance         
-├── src   ├── main.cpp            
+├── src
+|   ├── main.cpp            
 │   ├── modules             
 │   └── utils               
 ├── include                 
