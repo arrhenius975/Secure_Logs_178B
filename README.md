@@ -34,8 +34,8 @@ To install this project locally, follow these steps:
 
 1. Clone the repository:
   
-   git clone https://github.com/yourusername/DO178B_CyberSecurity_Logging.git
-   cd DO178B_CyberSecurity_Logging
+   git clone https://github.com/arrhenius975/Secure_Logs_178B.git
+   cd Secure_Logs_178B
    
 2. Build the project:
    - Ensure you have CMake and a compatible compiler (like GCC or Clang) installed.
